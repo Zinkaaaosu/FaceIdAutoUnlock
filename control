@@ -1,0 +1,9 @@
+Package: com.example.faceautounlock
+Name: FaceAutoUnlock
+Depends: ellekit
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Description: Unlock the screen right after successful Face ID
+Maintainer: you
+Author: you
+Section: Tweaks
